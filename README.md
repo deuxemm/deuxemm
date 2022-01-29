@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deuxemm,
 - my hobby approach to learning, to me, is a fantastic way to master new tools, programming languages & help reverse the effects of burnout.
-- I’m interested in technology at any level and improving on various coding langauges, HTML, CSS, JS, Python, Vue.js.
-- 🌱 I’m currently focusing on learning JavaScript and Vue.js.
+- I’m interested in technology at any level and improving on various coding langauges, HTML, CSS, JS, Python, Vue.js, $BASH, linux, Ubuntu.
+- 🌱 I’m currently focusing on learning Django for inspired fun & AWS as a career passion and direction.
 - 💞️ I’m looking to collaborate on some small but fun website projects.
 - 📫 How to reach me - deuxemm@vivalidi.net
 
