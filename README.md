@@ -3,7 +3,7 @@
 - I’m always interested in improving my knowledge of technology, cloud and various coding languages, HTML, CSS, JS, PHP, Python, Golang, linux, $BASH, Ubuntu.
 - 🌱 Currently doing three different DevOps courses, each with it's own approach, as it supplements my career direction.
 - 💞️ I’m also working through a Full-Stack WebDev course, as a passion & pass-time.
-- 📫 How to reach me - deuxemm@vivalidi.net
+- 📫 How to reach me - deuxemm@duck.com
 
 <!---
 deuxemm/deuxemm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
